@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/16587fa6-4c9f-4ccc-ad77-ac379d5d8602)
+
 # 🧔🏽 Loja Man Baruch – Moda Masculina
 
 Este repositório documenta o desenvolvimento do site da **Man Baruch**, uma loja de moda masculina voltada para homens modernos e estilosos. O projeto foi criado utilizando WordPress com o construtor Elementor, além de customizações em HTML e CSS para garantir uma identidade única e performance otimizada.
@@ -5,7 +7,7 @@ Este repositório documenta o desenvolvimento do site da **Man Baruch**, uma loj
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
 - WordPress
-- Elementor (design responsivo e personalizado)
+- Elementor Pro(design responsivo e personalizado)
 - HTML5
 - CSS3 (estilizações específicas)
 - Integração com plataforma de e-commerce (WooCommerce)
@@ -28,9 +30,6 @@ Este repositório documenta o desenvolvimento do site da **Man Baruch**, uma loj
 - Carrinho e Checkout
 - Contato e Redes Sociais
 
-## 📸 Screenshots
-
-https://github.com/hermessonyurii/Prints-Site-ManBaruch
 
 ## 🔗 Link para o site ao vivo
 
@@ -39,6 +38,6 @@ https://github.com/hermessonyurii/Prints-Site-ManBaruch
 ## 👨‍💻 Desenvolvido por
 
 Hermesson Yuri
-Desenvolvedor de Sistemas e Softwares | WordPress | Elementor | HTML | CSS  
+Desenvolvedor Full Stack 
 📧 contato@hermessonyuri.com.br  
 🌐 [hermessonyuri.com](https://hermessonyuri.com)
